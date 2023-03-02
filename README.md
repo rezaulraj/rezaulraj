@@ -1,6 +1,6 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1608020490393-RBHFYWZAECA6UCJMX7FK/Integrate+CI+CD.gif?format=1000w)
 <h1 align="center">Hi 👋, I'm Rezaul Karim</h1>]
-<h3 align="center">A Passionate JavaScript Developer And I welling To Learn New Technology.</h3>
+<h3 align="center">A Passionate NodeJS Developer And I welling To Learn New Technology.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
